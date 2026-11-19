@@ -1,0 +1,52 @@
+ReFlo
+Copyright © 2026 LaneBlossom (https://github.com/LaneBlossom/reflo). All rights reserved.
+
+【中文】
+
+本軟體（ReFlo，包含程式碼、介面設計、圖示、文件與圖片）的著作權屬於 LaneBlossom（GitHub 帳號），保留所有權利。本條款適用於 ReFlo 所有已發布及未來發布的版本。
+
+您可以：
+- 免費下載、安裝及個人使用本軟體。
+- 分享本軟體官方下載頁面的連結。
+
+未經作者書面同意，您不得：
+- 反編譯、反組譯、解開封裝（例如解開 app.asar）或以其他方式還原本軟體的原始碼。
+- 複製、修改、翻譯本軟體的全部或一部分，或以本軟體為基礎製作衍生作品。
+- 將本軟體或其任何部分（包含解開後的程式碼）交給人工智慧或其他工具分析、改寫或重製，以製作相同或類似的軟體。
+- 重新散布、轉售、出租本軟體，或將其包裝於其他軟體中散布。
+- 移除或變更本軟體中的著作權標示。
+
+本軟體依「現況」提供，不提供任何明示或默示的保證。作者不對使用本軟體造成的任何損失負責。
+
+本軟體內附的第三方元件（例如 FFmpeg、Electron 及其他開放原始碼套件）依各自的授權條款提供，不受上述限制；其授權條款隨附於安裝資料夾中。
+
+第三方聲明與免責：
+- ReFlo 是玩家自製的非官方工具，與任何遊戲的開發商、發行商或營運商無關，未獲其授權、贊助或認可。遊戲名稱、商標、圖像及遊戲畫面的權利屬於其各自的權利人。
+- ReFlo 不修改遊戲程式或遊戲檔案，不讀寫遊戲的記憶體，也不攔截或修改遊戲的網路封包；它錄下的是使用者自己螢幕上的畫面與聲音。
+- RivaTuner Statistics Server（RTSS）是其作者的軟體。ReFlo 沒有內附它，與它無關，也未獲其認可；ReFlo 只讀取使用者自行安裝並開啟後提供的資料。
+- 錄下、剪輯與分享遊戲畫面時，請遵守各遊戲及平台的使用條款與素材使用規範。是否使用本軟體，以及因此產生的一切後果，由使用者自行判斷並承擔，作者不負任何責任。
+
+【English】
+
+This software (ReFlo, including its code, interface design, icons, documentation and images) is copyright of LaneBlossom (GitHub account). All rights reserved. These terms apply to all versions of ReFlo, both already released and released in the future.
+
+You may:
+- Download, install and use this software for free for personal use.
+- Share links to the official download page.
+
+Without the author's written permission, you may not:
+- Decompile, disassemble, unpack (e.g. extract app.asar) or otherwise reverse engineer this software.
+- Copy, modify or translate this software in whole or in part, or create derivative works based on it.
+- Feed this software or any part of it (including unpacked code) to artificial intelligence or other tools to analyse, rewrite or reproduce it in order to make the same or a similar software.
+- Redistribute, sell, rent, or bundle this software with other software.
+- Remove or alter any copyright notice in this software.
+
+This software is provided "as is", without warranty of any kind, express or implied. The author is not liable for any damages arising from its use.
+
+Third-party components included with this software (such as FFmpeg, Electron and other open-source packages) are provided under their own licenses and are not subject to the restrictions above; their license texts are included in the installation folder.
+
+Third-party notices and disclaimer:
+- ReFlo is an unofficial, fan-made tool. It is not affiliated with, authorised, sponsored or endorsed by any game developer, publisher or operator. Game names, trademarks, images and game footage belong to their respective owners.
+- ReFlo does not modify any game program or game files, does not read or write a game's memory, and does not intercept or alter a game's network traffic; it records what is on the user's own screen and speakers.
+- RivaTuner Statistics Server (RTSS) is software of its author. ReFlo does not include it, is not affiliated with it and is not endorsed by it; it only reads data RTSS provides after the user has installed and started it.
+- When recording, editing and sharing game footage, follow the terms of service and material-usage guidelines of each game and platform. Whether to use this software, and every consequence of doing so, is the user's own decision and responsibility; the author accepts no liability.
