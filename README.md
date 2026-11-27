@@ -6,12 +6,12 @@
 > *Rewind the fight. Relive it with your squad.*
 
 <p>
-  <img src="docs/img/review.png" width="49%" alt="播放與擷取片段">
+  <img src="docs/img/review.png" width="49%" alt="播放與剪輯">
   <img src="docs/img/rewink.png" width="49%" alt="Rewink 拍照框">
 </p>
 
 - **錄影**：顯卡硬體編碼；可以只錄遊戲視窗、整個螢幕，或框選一塊範圍；遊戲聲音、Discord 語音、自己的麥克風可以分成不同音軌
-- **播放與擷取片段**：一次開很多個影片（影片清單）；選一段輸出成影片、GIF 或截圖，也能裁切畫面
+- **播放與剪輯**：一次開很多個影片（影片清單）；選一段輸出成影片、GIF 或截圖，也能裁切畫面；用時間軸把好幾段接成一部，加轉場、調聲音、配背景音樂
 - **Rewink 拍照框** ✦：遊戲畫面上的透明拍照框，拖曳、縮放、轉角度，按快門倒數拍照（框和 Overlay 不會入鏡）
   - 拍立得、拍貼機、短影音、底片、雜誌封面、新聞頭條、電影海報等樣式，加相框、濾鏡、特效、文字和貼紙，也能拍動圖
   - 照片上的每個東西都能移動、縮放、旋轉；可以用電腦裡的字型、上傳自己的貼紙，排好的版面存成「我的版型」分享給朋友
@@ -42,6 +42,15 @@
 - Windows 10 / 11（64 位元）
 - 建議有 NVIDIA / AMD / Intel 顯卡（沒有也能錄，但會吃 CPU）
 - 顯示遊戲 FPS 需要 RivaTuner Statistics Server（RTSS，MSI Afterburner 附帶）
+
+## 匿名使用統計
+
+為了知道大約有多少人在用，ReFlo **每天最多送出一次**匿名統計（透過 [Aptabase](https://aptabase.com)），內容只有：
+
+- ReFlo 的版本號、裝了哪些擴充（名稱和版本）
+- 系統語言、Windows 版本（Aptabase 固定會帶）
+
+**不會**送出帳號、角色名、檔案或影片、路徑、設定，也沒有裝置 ID（Aptabase 不保存 IP）；Aptabase 只用每天更換的雜湊值計算人數，無法追蹤到個人。不想送的話，到 ☰ →「關於與更新」取消勾選「分享匿名使用統計」即可。
 
 ## 授權與著作權
 
